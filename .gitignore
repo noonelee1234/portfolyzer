@@ -1,2 +1,5 @@
 #program setup data
-settings/
+.settings/
+
+#editor setup
+.vscode/
