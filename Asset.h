@@ -10,6 +10,7 @@ private:
 	double value;	//평가금액(KRW)
 
 public:
+	void set_value(double value);
 	double get_value(void) const;
 };
 
